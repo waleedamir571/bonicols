@@ -9,37 +9,37 @@
                 <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/about/a1.jpg"  height="100" alt=""
+                        <figure class="image-box"><img src="assets/images/about/a1.jpg" height="100" alt=""
                                 class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/about/a2.jpg"  height="100" alt=""
+                        <figure class="image-box"><img src="assets/images/about/a2.jpg" height="100" alt=""
                                 class="client-img img-responsive"></figure>
                     </li>
 
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/about/a4.jpg" alt=""  height="100"
+                        <figure class="image-box"><img src="assets/images/about/a4.jpg" alt="" height="100"
                                 class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/about/a3.jpg" alt=""  height="100"
+                        <figure class="image-box"><img src="assets/images/about/a3.jpg" alt="" height="100"
                                 class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/011.jpg" alt="" 
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/011.jpg" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/012.jpg" alt="" 
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/012.jpg" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/013.jpg" alt="" 
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/013.jpg" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/014.jpg" alt="" 
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/014.jpg" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
                         <figure class="image-box"><img src="assets/images/clients/05.webp" alt="" width="100"
@@ -47,25 +47,40 @@
                     </li>
 
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/07.webp" alt="" 
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/07.webp" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/08.jpg" alt="" 
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/08.jpg" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/09.png" alt=""
-                                height="100" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/09.png" alt="" height="100"
+                                class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/image001.jpg" alt="" 
-                                height="90" class="client-img img-responsive"></figure>
+                        <figure class="image-box"><img src="assets/images/clients/image001.jpg" alt="" height="90"
+                                class="client-img img-responsive"></figure>
                     </li>
-                    <li class="slide-item" >
+                    <li class="slide-item">
+                        <!-- begin super lawyers badge -->
+                        <div data-slbadge="v2-slbadge-blue"
+                            style="width:180px;height:150px;border-radius:12px;font-family:arial, sans-serif;color:gray;text-align:center">
+                            <script async type="text/javascript"
+                                src="https://www.superlawyers.com/static/sl-badge/v2/load.min.js"></script><a
+                                class="slbadge_profileurl"
+                                title="View the profile of Texas Family Law Attorney John &amp;#039;Bo&amp;#039; Nichols"
+                                href="https://profiles.superlawyers.com/texas/houston/lawyer/john-bo-nichols/6062e969-7932-4fa3-89c4-b1c868745889.html?npcmp=slb:badge:sl_badge:6062e969-7932-4fa3-89c4-b1c868745889:main&utm_source=6062e969-7932-4fa3-89c4-b1c868745889&utm_campaign=v2-slbadge-blue&utm_content=profile">John
+                                &#039;Bo&#039; Nichols</a>
+                            <div style="margin-top:6px">Rated by Super Lawyers<br /><br /><br />loading ...</div>
+                        </div>
+                        <!-- end super lawyers badge -->
+                    </li>
+                    <li class="slide-item">
                         <a href=https://www.bestlawyers.com/firms/bo-nichols-law/95633/US>
                             <img src=https://www.bestlawyers.com/Logos/ListedFirm/95633/US/32/O/Basic.png
-                                title="Best Lawyers - Firm Logo" alt="Best Lawyers - Firm Logo" style="height: 6.3rem !important;">
+                                title="Best Lawyers - Firm Logo" alt="Best Lawyers - Firm Logo"
+                                style="height: 6.3rem !important;">
                         </a>
                     </li>
                 </ul>

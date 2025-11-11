@@ -18,8 +18,6 @@
 
     <div class="page-wrapper">
 
-
-
         <!-- Main Header-->
         <?php include('nav.php'); ?>
         <!-- End Main Header -->
@@ -81,7 +79,7 @@
                             </div>
 
                             <!-- Categories Widget -->
-                            
+
                         </aside>
                     </div>
 
@@ -90,8 +88,7 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
-                                    <a href="#"><img src="../assets/images/blogs/trust.png"
-                                            alt=""></a>
+                                    <a href="#"><img src="../assets/images/blogs/trust.png" alt=""></a>
                                 </div>
                                 <div class="lower-content">
                                     <ul class="post-meta">
@@ -100,13 +97,10 @@
                                         <li><span class="icon flaticon-calendar-1"></span> oct 21, 2025</li>
                                     </ul>
                                     <h3>
-
                                         Trust the Right Advocate: Why You Should Choose Bo Nichols Law</h3>
                                     <h3>
 
                                         Introduction</h3>
-
-
 
                                     <div class="my-texttt">
                                         <div class="text">When family relationships break down, emotions run high, and
@@ -124,14 +118,9 @@
                                             expertise,
                                             integrity, and advocacy you deserve.
 
-
-
-
-
                                         </div>
                                         <!--<a class="read-more" href="major-new-child.php">Read More</a>-->
                                     </div>
-
 
                                     <h3>Who We Are: A Legacy of Excellence in Family Law </h3>
                                     <div class="my-texttt">
@@ -345,7 +334,6 @@
                                         </div>
                                     </div>
 
-
                                     <h3>Client Stories That Inspire Confidence
                                     </h3>
                                     <br>
@@ -362,7 +350,7 @@
                                             genuine concern for their well-being.
                                         </div>
                                     </div>
-                                    <h3>Your Path Forward Starts Here   
+                                    <h3>Your Path Forward Starts Here
                                     </h3>
                                     <br>
 
@@ -383,12 +371,13 @@
                                             confidence.
                                             <br>
                                             <br>
-                                            Visit <a href="https://bonicholslaw.com/?">bonicholslaw.com</a>  to learn more about our services and discover how we can help you protect what matters most.
+                                            Visit <a href="https://bonicholslaw.com/">bonicholslaw.com</a> to learn more
+                                            about our services and discover how we can help you protect what matters
+                                            most.
                                         </div>
                                     </div>
                                     <br>
-                                 
-                                   
+
                                 </div>
                             </div>
                         </div>

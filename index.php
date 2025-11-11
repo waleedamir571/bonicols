@@ -163,8 +163,8 @@
 											<div class="upper-box">
 												<div class="author-image">
 												</div>
-												<div class="title">Thank you, Bo</div>
-												<h6>Hired Attorney</h6>
+												<div class="title">5 star service, absolutely the best!</div>
+												<h6>Posted by anonymous</h6>
 												<div class="rating">
 													<span class="fa fa-star"></span>
 													<span class="fa fa-star"></span>
@@ -180,6 +180,29 @@
 												as positive of an outcome as I could have expected, given the
 												circumstances. He was kind, empathetic and responsive from start to
 												finish. I'd recommend him to anyone going through a divorce.</div>
+										</div>
+									</div>
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
+												<div class="title">Thank you, Bo</div>
+												<h6>Hired Attorney</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">If you want the best of the best with 5 star service then
+												hire Bo. His firm is equipped with a very knowledgeable and professional
+												team that makes you feel very comfortable. They were always accessible
+												and very attentive. Too bad the highest rating here is 5 stars because
+												he deserves more than that!</div>
 										</div>
 									</div>
 									<div class="testimonial-block-two">
@@ -964,8 +987,7 @@
 
 					<!-- Images Column -->
 					<div class="images-column col-lg-6 col-md-12 col-sm-12 mob-h">
-						<img src="assets/images/banners/bo.png" 
-									alt="Houston Family Law Attorney" loading="lazy" />
+						<img src="assets/images/banners/bo.png" alt="Houston Family Law Attorney" loading="lazy" />
 						<!-- <div class="pattern-layer" style="background-image:url(assets/images/icons/pattern-5.png)">
 						</div>
 						<div class="pattern-layer-two"

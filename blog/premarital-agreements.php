@@ -420,6 +420,7 @@
                 </div>
             </div>
         </div>
+        </div>
         <!-- End Subscribe Section -->
 
         <!-- Main Footer -->

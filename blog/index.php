@@ -90,6 +90,136 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="consult-a-lawyer-early"><img src="../assets/images/blogs/consult.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 10, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Why Consulting a Lawyer Early Makes All the Difference
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> Life doesn’t always go as planned. Sometimes, family
+                                            disputes, divorce, child custody issues, or financial matters can arise when
+                                            you least expect them.
+                                        </div>
+
+                                        <a class="read-more" href="consult-a-lawyer-early">Read
+                                            More</a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="building-a-stronger-union-premarital-agreement-texas"><img
+                                            src="../assets/images/blogs/building.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 06, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Building a Stronger Union: Why Every Couple Should Consider
+                                        a Premarital Agreement
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> Marriage is one of life’s most meaningful commitments. But as
+                                            romantic as it is, it’s also a
+                                            partnership
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="building-a-stronger-union-premarital-agreement-texas">Read
+                                            More</a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="when-emotional-instability-threatens-a-childs-future"><img
+                                            src="../assets/images/blogs/unstable.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 06, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        How Unstable Homes Can Impact a Child’s Future—and the Role of Proper Support
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> When families go through separation or divorce, one of the
+                                            most important and sometimes most contentious topics is child support.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="when-emotional-instability-threatens-a-childs-future">Read
+                                            More</a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="trusted-family-law-attorneys"><img
+                                            src="../assets/images/blogs/attorneys.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 05, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Compassionate Legal Support for Families in Texas
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> When facing life-changing decisions, such as divorce, child
+                                            custody disputes, or property division,
+                                        </div>
+
+                                        <a class="read-more" href="trusted-family-law-attorneys">Read
+                                            More</a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="premarital-agreements"><img src="../assets/images/blogs/agreement.png"
                                             alt=""></a>
                                 </div>
@@ -1310,7 +1440,7 @@
                                                     exceptions or actions required.</li>
                                             </ul>
 
-                                             <br>
+                                            <br>
 
                                         </div>
                                         <!--<a class="read-more" href="major-new-child.php">Read More</a>-->

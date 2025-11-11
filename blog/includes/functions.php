@@ -246,5 +246,34 @@ legal support for divorce, custody, and child support cases across Texas. Call t
         $url = $baseUrl . "blog/premarital-agreements.php";
 
         break;
+    case "trusted-family-law-attorneys.php";
+        $title_name = "Trusted Family Law Attorneys | Bo Nichols Law ";
+        $description = " Get expert legal help from Bo Nichols Law, your trusted Texas family
+law firm. We handle divorce, child custody, and property division with care and compassion.";
+        $url = $baseUrl . "blog/trusted-family-law-attorneys.php";
+
+        break;
+    case "when-emotional-instability-threatens-a-childs-future.php";
+        $title_name = "When Emotional Instability Threatens a Child’s Future | Bo Nichols Law";
+        $description = "  Learn how emotional and financial instability after separation can affect a child’s future.
+         Discover how proper child support ensures stability and well-being with help from Bo Nichols Law.";
+        $url = $baseUrl . "blog/when-emotional-instability-threatens-a-childs-future.php";
+
+        break;
+    case "building-a-stronger-union-premarital-agreement-texas.php";
+        $title_name = "Why a Premarital Agreement Matters More Than You Think | Bo Nichols Law";
+        $description = "Learn how a premarital agreement can protect your assets, define
+expectations, and strengthen your relationship. Get expert guidance from Bo Nichols Law in
+Texas.";
+        $url = $baseUrl . "blog/building-a-stronger-union-premarital-agreement-texas.php";
+
+        break;
+    case "consulting-a-lawyer-importance.php";
+        $title_name = "Consult a Lawyer Early: Safeguard Your Future with Bo Nichols Law";
+        $description = "Getting professional legal advice early can prevent stress, financial loss, and mistakes. At Bo Nichols Law, we guide clients through complex legal matters with personalized strategies that protect their rights.";
+        $url = $baseUrl . "blog/consulting-a-lawyer-importance.php";
+
+        break;
+
 
 }
