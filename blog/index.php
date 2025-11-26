@@ -90,8 +90,294 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
-                                    <a href="consult-a-lawyer-early"><img src="../assets/images/blogs/consult.png"
+                                    <a href="client-reviews-bo-nichols"><img src="../assets/images/blogs/review.png"
                                             alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 26, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Turning Client Praise Into Purpose – Why Client Reviews Matter at Bo Nichols Law
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            As more people turn to online reviews for guidance. Clients going through a
+                                            difficult divorce or custody battle,
+                                        </div>
+
+                                        <a class="read-more" href="client-reviews-bo-nichols">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="choosing-the-right-family-lawyer"><img
+                                            src="../assets/images/blogs/family-lawyer.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 25, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        A High-Level Legal Analysis of Asset Division in Divorce
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Asset division is one of the most complex and contested components of
+                                            divorce litigation.
+                                        </div>
+
+                                        <a class="read-more" href="choosing-the-right-family-lawyer">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="equitable-distribution-law"><img src="../assets/images/blogs/equitable.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 21, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        A High-Level Legal Analysis of Asset Division in Divorce
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Asset division is one of the most complex and contested components of
+                                            divorce litigation.
+                                        </div>
+
+                                        <a class="read-more" href="equitable-distribution-law">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="how-domestic-violence-impacts-child-custody-decisions"><img
+                                            src="../assets/images/blogs/violence.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 21, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        How Domestic Violence Impacts Child Custody Decisions
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            When parents separate, one of the most important and emotionally challenging
+                                            questions is who will care for the children.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="how-domestic-violence-impacts-child-custody-decisions">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="premarital-agreements-guide"><img
+                                            src="../assets/images/blogs/pagreements.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 20, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Premarital Agreements: A Practical Guide for Modern Couples
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Marriage is one of the biggest commitments two people make — not just
+                                            emotionally, but financially and legally.
+                                        </div>
+
+                                        <a class="read-more" href="premarital-agreements-guide">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="property-division-support"><img src="../assets/images/blogs/property.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 17, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        When Support Becomes Strength: Building Stability Through Child Support
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> Divorce or separation often brings emotional storms and
+                                            financial uncertainty — not just for parents, but especially for children.
+                                        </div>
+
+                                        <a class="read-more" href="property-division-support">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="child-support-and-family-stability"><img
+                                            src="../assets/images/blogs/stability.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 14, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        When Support Becomes Strength: Building Stability Through Child Support
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> Divorce or separation often brings emotional storms and
+                                            financial uncertainty — not just for parents, but especially for children.
+                                        </div>
+
+                                        <a class="read-more" href="child-support-and-family-stability">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="when-family-issues-turn-legal"><img src="../assets/images/blogs/legal.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 14, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        How the Right Lawyer Can Change the Entire Outcome
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> Family issues don’t start in a courtroom. They start at home
+                                            — during late-night arguments.
+                                        </div>
+
+                                        <a class="read-more" href="when-family-issues-turn-legal">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="hidden-emotional-costs-of-divorce"><img
+                                            src="../assets/images/blogs/emotional.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 12, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        When Divorce Becomes Emotional: What Most People Don’t Expect
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text"> Divorce is often described in legal terms — petitions,
+                                            settlements, custody arrangements, and alimony.
+                                        </div>
+
+                                        <a class="read-more" href="hidden-emotional-costs-of-divorce">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="consulting-a-lawyer-importance"><img
+                                            src="../assets/images/blogs/consult.png" alt=""></a>
                                 </div>
                                 <div class="lower-content">
                                     <ul class="post-meta">
@@ -112,11 +398,10 @@
                                             you least expect them.
                                         </div>
 
-                                        <a class="read-more" href="consult-a-lawyer-early">Read
+                                        <a class="read-more" href="consulting-a-lawyer-importance">Read
                                             More</a>
 
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -713,7 +998,6 @@
                             </div>
                         </div>
 
-
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
@@ -820,7 +1104,6 @@
                                 </div>
                             </div>
                         </div>
-
 
                         <div class="news-block-three">
                             <div class="inner-box">

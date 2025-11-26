@@ -274,6 +274,64 @@ Texas.";
         $url = $baseUrl . "blog/consulting-a-lawyer-importance.php";
 
         break;
+    case "hidden-emotional-costs-of-divorce.php";
+        $title_name = "The Hidden Emotional Costs of Divorce—and How to Cope | Bo Nichols Law";
+        $description = "Divorce impacts more than legal ties—it affects your emotional well-being. Discover hidden emotional costs like stress and guilt, and learn how to heal with Bo Nichols Law.";
+        $url = $baseUrl . "blog/hidden-emotional-costs-of-divorce.php";
 
+        break;
+    case "child-support-and-family-stability.php";
+        $title_name = "Child Support and Stability | Bo Nichols Law";
+        $description = "Learn how child support promotes fairness, stability, and care. Bo Nichols Law guides parents through every step of the process.";
+        $url = $baseUrl . "blog/child-support-and-family-stability.php";
+
+        break;
+    case "when-family-issues-turn-legal.php";
+        $title_name = "Houston Family Law Attorney | Divorce, Custody & Support Solutions";
+        $description = " From divorce to custody disputes, Bo Nichols Law provides strategic, caring legal support to help you protect your future and your peace of mind.  ";
+        $url = $baseUrl . "blog/when-family-issues-turn-legal.php";
+
+        break;
+    case "property-division-support.php";
+        $title_name = "Trusted Divorce Asset Division | Bonichols Law";
+        $description = "  Learn how Bonichols Law helps protect your assets during divorce with strategic, fair property division. Get guidance on safeguarding your financial future today.";
+        $url = $baseUrl . "blog/property-division-support.php";
+
+        break;
+    case "premarital-agreements-guide.php";
+        $title_name = " Premarital Agreements Explained|Bonichols Law";
+        $description = "  Understand the pros, cons, and legal benefits of premarital agreements.
+Learn how Bonichols Law helps couples protect assets and plan their financial future.
+";
+        $url = $baseUrl . "blog/premarital-agreements-guide.php";
+
+        break;
+    case "how-domestic-violence-impacts-child-custody-decisions.php";
+        $title_name = "  How Domestic Violence Affects Child Custody | Bo Nichols Law";
+        $description = "  Learn how domestic violence impacts child custody decisions. Understand evidence, legal protections, and your rights with guidance from Bo Nichols Law.
+";
+        $url = $baseUrl . "blog/how-domestic-violence-impacts-child-custody-decisions.php";
+
+        break;
+    case "equitable-distribution-law.php";
+        $title_name = "  Asset Division Attorney | Fair & Equitable Property Distribution";
+        $description = "  Dividing assets in a divorce isn’t simple math. Bo Nichols Law helps you secure a fair and strategic outcome through skilled legal guidance and comprehensive financial analysis.";
+        $url = $baseUrl . "blog/equitable-distribution-law.php";
+
+        break;
+    case "choosing-the-right-family-lawyer.php";
+        $title_name = "Making a Wise Choice When Selecting Your Family Lawyer";
+        $description = "Choose the right family lawyer with confidence. Learn the key factors to consider when selecting legal representation to protect your rights and your future.";
+        $url = $baseUrl . "blog/choosing-the-right-family-lawyer.php";
+
+        break;
+    case "client-reviews-bo-nichols.php";
+        $title_name = "Why Clients Love Working with Bo Nichols |Family Law Testimonials";
+        $description = "See how positive client experiences reflect dedication, communication, and legal strength that Bo Nichols brings to every divorce and custody case.";
+        $url = $baseUrl . "blog/client-reviews-bo-nichols.php";
+
+        break;
 
 }
+
+

@@ -108,7 +108,6 @@
                                         Compassionate Legal Support for Families in Texas
                                     </h3>
 
-
                                     <div class="my-texttt">
                                         <div class="text">When facing life-changing decisions, such as <a
                                                 href="https://bonicholslaw.com/divorce">divorce</a> , child

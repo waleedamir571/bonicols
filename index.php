@@ -163,6 +163,61 @@
 											<div class="upper-box">
 												<div class="author-image">
 												</div>
+												<div class="title">Stellar</div>
+												<h6>Hired Attorney</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">Bo’s knowledge of Texas Family Law is encyclopedic. He is
+												also one of the fiercest litigators I have witnessed. When you combine
+												these two what you get is the best advocate you could have on your side.
+												However the trait I admire the most is that he genuinely cares about the
+												children involved in his cases and wants to do everything in his power
+												to provide the best outcome for them.</div>
+										</div>
+									</div>
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
+												<div class="title">Family Law Expert - Custody</div>
+												<h6>Hired Attorney</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">From the first phone call with Bo, he was attentive,
+												responsive and involved. He is passionate about his cases and brilliant
+												family lawyer. I told him from the beginning my main concerns and he
+												addressed and was successful in meeting those objections. He went above
+												and beyond my expectations. There was not a single concern i had that he
+												did not address and ensure that I understood and was good with the
+												decisions being made. My previous family lawyer had retired and after a
+												decade with him, I felt vulnerable. Bo won my confidence within a few
+												months, not just with his words but with his actions and unwavering
+												commitment to excellence and diligence to me as his client being
+												confident in our choices moving forward. He's truly gifted and takes
+												action quickly, meticulous and his team, they are attentive, kind and
+												their work product is impeccable.</div>
+										</div>
+									</div>
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
 												<div class="title">5 star service, absolutely the best!</div>
 												<h6>Posted by anonymous</h6>
 												<div class="rating">
