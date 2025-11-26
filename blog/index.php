@@ -100,15 +100,15 @@
                                         <li><span class="icon flaticon-calendar-1"></span> nov 26, 2025</li>
                                     </ul>
                                     <h3>
-                                        Turning Client Praise Into Purpose – Why Client Reviews Matter at Bo Nichols Law
+                                       Turning Client Praise Into Purpose – Why Client Reviews Matter at Bo Nichols Law
                                     </h3>
 
                                     <h3> Overview</h3>
 
                                     <div class="my-texttt">
                                         <div class="text">
-                                            As more people turn to online reviews for guidance. Clients going through a
-                                            difficult divorce or custody battle,
+                                            Asset division is one of the most complex and contested components of
+                                            divorce litigation.
                                         </div>
 
                                         <a class="read-more" href="client-reviews-bo-nichols">Read
@@ -121,8 +121,8 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
-                                    <a href="choosing-the-right-family-lawyer"><img
-                                            src="../assets/images/blogs/family-lawyer.png" alt=""></a>
+                                    <a href="choosing-the-right-family-lawyer"><img src="../assets/images/blogs/family-lawyer.png"
+                                            alt=""></a>
                                 </div>
                                 <div class="lower-content">
                                     <ul class="post-meta">
