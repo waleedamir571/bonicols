@@ -90,6 +90,37 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="digital-evidence-in-family-law"><img
+                                            src="../assets/images/blogs/familylaw.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> nov 28, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        How Digital Evidence Is Modifying Modern Family Law
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            In today’s world, our relationships live online as much as they do in real
+                                            life.
+                                        </div>
+
+                                        <a class="read-more" href="digital-evidence-in-family-law">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="client-reviews-bo-nichols"><img src="../assets/images/blogs/review.png"
                                             alt=""></a>
                                 </div>

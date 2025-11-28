@@ -331,6 +331,12 @@ Learn how Bonichols Law helps couples protect assets and plan their financial fu
         $url = $baseUrl . "blog/client-reviews-bo-nichols.php";
 
         break;
+    case "digital-evidence-in-family-law.php";
+        $title_name = "The Trend Lawyers Avoid: How Digital Evidence Is Changing Modern Family Law | Bo Nichols Law";
+        $description = "Discover the hidden trend shaping custody, divorce, and support cases today: digital evidence. Learn how your online behavior, messages, and digital footprints influence modern family law outcomes.";
+        $url = $baseUrl . "blog/digital-evidence-in-family-law.php";
+
+        break;
 
 }
 
