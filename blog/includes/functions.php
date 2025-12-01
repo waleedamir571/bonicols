@@ -337,6 +337,12 @@ Learn how Bonichols Law helps couples protect assets and plan their financial fu
         $url = $baseUrl . "blog/digital-evidence-in-family-law.php";
 
         break;
+    case "client-mistakes-during-legal-dispute.php";
+        $title_name = "Client Mistakes to Avoid During a Legal Dispute | Bo Nichols Law";
+        $description = "Learn the top client mistakes to avoid during a legal dispute. Protect your rights with expert guidance from Bo Nichols Law. Stay informed and strengthen your case.";
+        $url = $baseUrl . "blog/client-mistakes-during-legal-dispute.php";
+
+        break;
 
 }
 

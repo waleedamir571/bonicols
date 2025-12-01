@@ -90,6 +90,37 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="client-mistakes-during-legal-dispute"><img
+                                            src="../assets/images/blogs/mistakes.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 01, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Client Mistakes to Avoid During a Legal Dispute: Protecting Your Future
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            When you’re facing a legal dispute—whether it involves child custody,
+                                            divorce, property division, domestic violence
+                                        </div>
+
+                                        <a class="read-more" href="client-mistakes-during-legal-dispute">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="digital-evidence-in-family-law"><img
                                             src="../assets/images/blogs/familylaw.png" alt=""></a>
                                 </div>
