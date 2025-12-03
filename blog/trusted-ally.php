@@ -155,10 +155,6 @@
                                             <br>
                                             He’s also widely recognized by peers and publications such as Best Lawyers
                                             in America since 2009, and Texas Super Lawyers annually since 2005.
-
-
-
-
                                         </div>
                                     </div>
                                     <br>
@@ -176,7 +172,7 @@
                                             helps
                                             clients navigate the divorce process with clarity and protection.
 
-                                            <br>
+                                            
                                             <br>
                                             <b>Child Custody, Visitation & Support:</b> Determining what’s best for the
                                             children involved—establishing visitation schedules, support obligations,
@@ -199,16 +195,11 @@
                                             <b>Pre- and Post-nuptial Agreements, Cohabitation, Parentage, Relocations:
                                             </b>Helping clients plan and protect their interests in different scenarios.
                                             <br>
-                                            <br>
-
-
-
-                                            <br>
+                                           
                                             Bo Nichols Law doesn’t just know the statutes; they know how to walk into
                                             court with confidence—whether negotiating a settlement or trial-room
                                             fighting. That gives clients options. You don’t have to settle for less out
                                             of fear or confusion.
-
 
                                         </div>
                                     </div>
@@ -311,35 +302,24 @@
                                                 <li>Parents fighting over custody rights after a move or decision to
                                                     relocate
 
-
-
                                                 </li>
                                                 <li>Individuals seeking modifications in child support when income
                                                     changes
-
-
 
                                                 </li>
                                                 <li>Couples need clear agreements about property division, especially
                                                     with complex assets.
 
-
-
                                                 </li>
                                                 <li>Victims of domestic violence are obtaining protection orders.
-
-
 
                                                 </li>
                                                 <li>Families building stable foundations through adoption
 
                                                 </li>
                                                 <li>These are not abstract ideas; they are people’s lives.
-
-
                                                 </li>
                                                 <li>Locations, Contact & Getting Started
-
 
                                                 </li>
 
@@ -363,7 +343,6 @@
                                         Bring any important documents you have (custody orders, divorce decrees, support
                                         orders, financial paperwork). Even if you’re unsure, early preparation helps.
 
-
                                     </div>
                                     <br>
                                     <h3>Final Thoughts
@@ -377,16 +356,14 @@
                                             the terrain, understands not just the law but the human pain behind it, and
                                             fights for your future—that matters.
 
-
                                             <br>
-                                            <br>
-
+                                            
                                             Bo Nichols Law offers more than legal representation. It offers experience,
                                             respect, and hope. If your family is facing changes, uncertainty, or
                                             separation, you deserve someone who can not only guide you through the legal
                                             fight but also help you emerge stronger.
                                             <br>
-                                            <br>
+                                           
                                             If you or someone you love needs help navigating family law in the Houston
                                             area, Bo Nichols Law is a strong choice. Your rights, your children, your
                                             peace of mind—they deserve nothing less.

@@ -109,9 +109,6 @@
                                         The Digital Divorce: How Social Media Can Affect Your Family Law Case
                                     </h3>
 
-
-
-
                                     <div class="my-texttt">
                                         <div class="text">In the modern world, nearly every part of our lives has moved
                                             online — and that includes
@@ -132,7 +129,6 @@
                                             have real-world consequences — especially in divorce and custody
                                             proceedings.
 
-
                                         </div>
 
                                     </div>
@@ -140,9 +136,6 @@
                                     <h3>
                                         Why Social Media Matters in Family Law
                                     </h3>
-
-
-
 
                                     <div class="my-texttt">
                                         <div class="text">In family court, the goal is fairness and protection of
@@ -155,7 +148,6 @@
 
                                             <br>
                                             For example:
-
 
                                         </div>
 
@@ -171,7 +163,6 @@
                                             <li>A spouse seeking custody but sharing inappropriate or reckless content.
 
                                             </li>
-
 
                                         </ul>
 
@@ -194,7 +185,6 @@
                                             kids” — but your posts
                                             suggest partying or long absences, credibility erodes fast.
 
-
                                         </div>
 
                                     </div>
@@ -207,7 +197,6 @@
                                             show poor judgment and
                                             hostility — qualities that can affect custody decisions.
 
-
                                         </div>
 
                                     </div>
@@ -219,7 +208,6 @@
                                         <div class="text">Introducing a new partner online before your divorce is final
                                             can inflame tensions and
                                             even influence spousal support negotiations.
-
 
                                         </div>
 
@@ -234,7 +222,6 @@
                                             personal details or patterns that
                                             create legal complications.
 
-
                                         </div>
 
                                     </div>
@@ -246,7 +233,6 @@
                                         <div class="text">Discussing case details online can violate court orders — a
                                             serious misstep that can lead
                                             to sanctions.
-
 
                                         </div>
 
@@ -301,14 +287,8 @@
                                                 resurface in unpredictable ways.
                                                 <br>
 
-
-
-
-
-
                                             </div>
                                         </div>
-
 
                                         <br>
                                         <h4>
@@ -356,11 +336,9 @@
                                         </h3>
                                         <br>
 
-
                                         <div class="my-texttt">
 
                                             <div class="text">
-
 
                                                 <br>
 
@@ -380,17 +358,12 @@
                                                 <li>Ensure any digital submission meets evidentiary standards.</li>
                                             </ul>
                                             
-
                                             <br>
                                             In many cases, digital evidence has proven decisive — especially in disputes
                                             involving
                                             harassment, financial dishonesty, or parenting conduct.
                                             </div>
                                         </div>
-
-
-                                        <br>
-
 
                                         <br>
                                         <h3>
@@ -404,8 +377,6 @@
                                         <div class="my-texttt">
 
                                             <div class="text">
-
-
                                                 <br>
 
                                                 Review old posts, photos, and comments that could be
@@ -421,7 +392,6 @@
                                         <div class="my-texttt">
 
                                             <div class="text">
-
 
                                                 <br>
 
@@ -439,7 +409,6 @@
 
                                             <div class="text">
 
-
                                                 <br>
 
                                                 Even innocent comments can be used to show
@@ -455,7 +424,6 @@
                                         <div class="my-texttt">
 
                                             <div class="text">
-
 
                                                 <br>
 
@@ -473,9 +441,6 @@
 
                                             <div class="text">
 
-
-                                                <br>
-
                                                 The simplest, safest strategy during a case is often to
                                                 step back entirely until proceedings conclude.
 
@@ -491,7 +456,6 @@
                                         <div class="my-texttt">
 
                                             <div class="text">
-
 
                                                 <br>
 
@@ -513,13 +477,7 @@
                                         <!-- <h3>
 
                                         Overview</h3> -->
-
-
-
-
                                     </div>
-
-
 
                                     <h3>
                                         Final Thoughts
@@ -528,9 +486,6 @@
                                     <div class="my-texttt">
 
                                         <div class="text">
-
-
-                                            <br>
 
                                             Your social media presence is a mirror — one that can either support or
                                             sabotage your case.
