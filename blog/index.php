@@ -90,6 +90,39 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="houston-divorce-guide"><img src="../assets/images/blogs/houston.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 05, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Facing Divorce in Houston, Texas: What You Need to Know Before Taking the Next
+                                        Step
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Divorce is not just a legal decision — it’s a turning point. For many
+                                            people, the idea of separating from a spouse brings a mix of fear
+                                        </div>
+
+                                        <a class="read-more" href="houston-divorce-guide">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="client-mistakes-during-legal-dispute"><img
                                             src="../assets/images/blogs/mistakes.png" alt=""></a>
                                 </div>

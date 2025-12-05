@@ -343,6 +343,12 @@ Learn how Bonichols Law helps couples protect assets and plan their financial fu
         $url = $baseUrl . "blog/client-mistakes-during-legal-dispute.php";
 
         break;
+         case "houston-divorce-guide.php";
+        $title_name = "Houston Divorce Attorney | Trusted Guidance by Bo Nichols Law";
+        $description = "Going through a divorce in Houston? Bo Nichols Law provides clear guidance, strong representation, and compassionate support to protect your rights and future.";
+        $url = $baseUrl . "blog/houston-divorce-guide.php";
+
+        break;
 
 }
 
