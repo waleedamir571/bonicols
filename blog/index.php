@@ -97,6 +97,37 @@
                                     <ul class="post-meta">
                                         <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
                                                 Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 08, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Winning Stability, Not Battles: A Parent’s Strategy to Child Custody
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Child custody disputes are among the most emotionally charged and
+                                            challenging situations a family can face.
+                                        </div>
+
+                                        <a class="read-more" href="child-custody-guide">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="houston-divorce-guide"><img src="../assets/images/blogs/houston.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
                                         <li><span class="icon flaticon-calendar-1"></span> Dec 05, 2025</li>
                                     </ul>
                                     <h3>

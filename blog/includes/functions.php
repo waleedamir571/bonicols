@@ -343,9 +343,15 @@ Learn how Bonichols Law helps couples protect assets and plan their financial fu
         $url = $baseUrl . "blog/client-mistakes-during-legal-dispute.php";
 
         break;
-         case "houston-divorce-guide.php";
+    case "houston-divorce-guide.php";
         $title_name = "Houston Divorce Attorney | Trusted Guidance by Bo Nichols Law";
         $description = "Going through a divorce in Houston? Bo Nichols Law provides clear guidance, strong representation, and compassionate support to protect your rights and future.";
+        $url = $baseUrl . "blog/houston-divorce-guide.php";
+
+        break;
+    case "child-custody-guide.php";
+        $title_name = "Navigating Child Custody in Texas: A Parent’s Guide | Bo Nichols Law";
+        $description = "Learn how Texas courts decide child custody, what factors matter most, and how parents can protect their children’s best interests. Get clear legal guidance from Bo Nichols Law. ";
         $url = $baseUrl . "blog/houston-divorce-guide.php";
 
         break;
