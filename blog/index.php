@@ -90,6 +90,68 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="divorce-lawyer-houston"><img
+                                            src="../assets/images/blogs/lawyer-houston.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 12, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Facing Divorce? Here’s How Bo Nichols Law Protects What Matters Most
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Divorce is one of life’s most challenging transitions — emotionally,
+                                            financially, and legally.
+                                        </div>
+
+                                        <a class="read-more" href="divorce-lawyer-houston">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="asset-division-in-texas"><img src="../assets/images/blogs/texass.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 12, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Asset Division in Texas Divorce: What You Need to Know Before 2025 Ends
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            When a marriage ends, the emotional weight is heavy enough—but the financial
+                                            uncertainty can feel even heavier.
+                                        </div>
+
+                                        <a class="read-more" href="asset-division-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="houston-divorce-guide"><img src="../assets/images/blogs/houston.png"
                                             alt=""></a>
                                 </div>

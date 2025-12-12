@@ -263,8 +263,7 @@ law firm. We handle divorce, child custody, and property division with care and 
     case "building-a-stronger-union-premarital-agreement-texas.php";
         $title_name = "Why a Premarital Agreement Matters More Than You Think | Bo Nichols Law";
         $description = "Learn how a premarital agreement can protect your assets, define
-expectations, and strengthen your relationship. Get expert guidance from Bo Nichols Law in
-Texas.";
+expectations, and strengthen your relationship. Get expert guidance from Bo Nichols Law in Texas.";
         $url = $baseUrl . "blog/building-a-stronger-union-premarital-agreement-texas.php";
 
         break;
@@ -294,22 +293,20 @@ Texas.";
         break;
     case "property-division-support.php";
         $title_name = "Trusted Divorce Asset Division | Bonichols Law";
-        $description = "  Learn how Bonichols Law helps protect your assets during divorce with strategic, fair property division. Get guidance on safeguarding your financial future today.";
+        $description = "Learn how Bonichols Law helps protect your assets during divorce with strategic, fair property division. Get guidance on safeguarding your financial future today.";
         $url = $baseUrl . "blog/property-division-support.php";
 
         break;
     case "premarital-agreements-guide.php";
-        $title_name = " Premarital Agreements Explained|Bonichols Law";
-        $description = "  Understand the pros, cons, and legal benefits of premarital agreements.
-Learn how Bonichols Law helps couples protect assets and plan their financial future.
-";
+        $title_name = "Premarital Agreements Explained|Bonichols Law";
+        $description = "Understand the pros, cons, and legal benefits of premarital agreements.
+        Learn how Bonichols Law helps couples protect assets and plan their financial future.";
         $url = $baseUrl . "blog/premarital-agreements-guide.php";
 
         break;
     case "how-domestic-violence-impacts-child-custody-decisions.php";
         $title_name = "  How Domestic Violence Affects Child Custody | Bo Nichols Law";
-        $description = "  Learn how domestic violence impacts child custody decisions. Understand evidence, legal protections, and your rights with guidance from Bo Nichols Law.
-";
+        $description = "  Learn how domestic violence impacts child custody decisions. Understand evidence, legal protections, and your rights with guidance from Bo Nichols Law.";
         $url = $baseUrl . "blog/how-domestic-violence-impacts-child-custody-decisions.php";
 
         break;
@@ -353,6 +350,18 @@ Learn how Bonichols Law helps couples protect assets and plan their financial fu
         $title_name = "Navigating Child Custody in Texas: A Parent’s Guide | Bo Nichols Law";
         $description = "Learn how Texas courts decide child custody, what factors matter most, and how parents can protect their children’s best interests. Get clear legal guidance from Bo Nichols Law. ";
         $url = $baseUrl . "blog/houston-divorce-guide.php";
+
+        break;
+        case "asset-division-in-texas.php";
+        $title_name = "Texas Assets Division Attorney | Fair Property Distribution";
+        $description = "Learn how asset division works in Texas divorce cases. Understand community property, separate property, and how Bo Nichols Law protects your financial future. ";
+        $url = $baseUrl . "blog/asset-division-in-texas.php";
+
+        break;
+         case "divorce-lawyer-houston.php";
+        $title_name = "Houston Divorce Lawyer | Modern Divorce & Family Law Support";
+        $description = "Going through a divorce in Houston? Get expert guidance on custody, property division, digital evidence, and your next steps. Schedule your consultation today.";
+        $url = $baseUrl . "blog/divorce-lawyer-houston.php";
 
         break;
 
