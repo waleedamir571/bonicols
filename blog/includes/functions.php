@@ -352,16 +352,22 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/houston-divorce-guide.php";
 
         break;
-        case "asset-division-in-texas.php";
+    case "asset-division-in-texas.php";
         $title_name = "Texas Assets Division Attorney | Fair Property Distribution";
         $description = "Learn how asset division works in Texas divorce cases. Understand community property, separate property, and how Bo Nichols Law protects your financial future. ";
         $url = $baseUrl . "blog/asset-division-in-texas.php";
 
         break;
-         case "divorce-lawyer-houston.php";
+    case "divorce-lawyer-houston.php";
         $title_name = "Houston Divorce Lawyer | Modern Divorce & Family Law Support";
         $description = "Going through a divorce in Houston? Get expert guidance on custody, property division, digital evidence, and your next steps. Schedule your consultation today.";
         $url = $baseUrl . "blog/divorce-lawyer-houston.php";
+
+        break;
+    case "family-law-misconceptions-texas.php";
+        $title_name = "What Most People Get Wrong About Family Law | Bo Nichols Law";
+        $description = "Many people misunderstand family law in Texas. Learn the most common mistakes, myths, and how the right legal guidance can protect your future. ";
+        $url = $baseUrl . "blog/family-law-misconceptions-texas.php";
 
         break;
 
