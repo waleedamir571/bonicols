@@ -87,6 +87,70 @@
                                 </div>
                             </div>
                         </div> -->
+                         <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="premarital-agreement-attorney-houston-tx"><img
+                                            src="../assets/images/blogs/agreement-attorney.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 25, 2025</li>
+                                    </ul>
+                                    <h3>
+                                       Premarital Agreements in Texas: Protect Your Future with Bo Nichols Law
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Marriage is one of life’s most exciting milestones
+                                        </div>
+
+                                        <a class="read-more" href="premarital-agreement-attorney-houston-tx">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="when-family-matters-most"><img
+                                            src="../assets/images/blogs/family-matters.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 15, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        When Family Matters the Most, We’re Here for You
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Life’s most meaningful moments often happen within the walls of family — but
+                                            so do life’s most difficult ones.
+                                        </div>
+
+                                        <a class="read-more" href="when-family-matters-most">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">

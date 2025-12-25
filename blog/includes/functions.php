@@ -72,17 +72,15 @@ support matters. Protect your rights with trusted Houston divorce attorneys.";
         $description = " Learn the basics of child support in 2025. Discover how payments are calculated, parents’ rights and responsibilities, and tips to navigate the process with confidence.";
         $url = $baseUrl . "blog/parents-need-to-know";
 
-
         break;
 
     case "asset-Division-During-Divorce.php";
         $title_name = "Asset Division During Divorce: How to Protect Your Financial Future";
-        $description = "Learn how assets are divided in divorce and discover strategies to safeguard your financial future. Understand property division, legal rights, and practical tips for fair outcomes.
-";
+        $description = "Learn how assets are divided in divorce and discover strategies to safeguard your financial future. Understand property division, legal rights, and practical tips for fair outcomes.";
         $url = $baseUrl . "blog/asset-Division-During-Divorce";
 
-
         break;
+
     case "child-custody-attorney.php";
         $title_name = "Parental Guide Before Hiring a Child Custody Attorney in Houston";
         $description = "Hiring a Child Custody Attorney in Houston? Our essential guide covers everything parents need to know, from Houston child custody laws to custody agreements and co-parenting tips.";
@@ -368,6 +366,18 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $title_name = "What Most People Get Wrong About Family Law | Bo Nichols Law";
         $description = "Many people misunderstand family law in Texas. Learn the most common mistakes, myths, and how the right legal guidance can protect your future. ";
         $url = $baseUrl . "blog/family-law-misconceptions-texas.php";
+
+        break;
+    case "when-family-matters-most.php";
+        $title_name = "When Family Matters the Most | Trusted Houston Family Lawyer";
+        $description = "When family matters the most, Bo Nichols Law provides trusted guidance for divorce, custody, and family law matters in Houston, Texas.";
+        $url = $baseUrl . "blog/when-family-matters-most.php";
+
+        break;
+    case "premarital-agreement-attorney-houston-tx.php";
+        $title_name = "Premarital Agreement Attorney in Houston | Bo Nichols Law";
+        $description = "Protect your assets and future with a Texas premarital agreement. Bo Nichols Law helps Houston couples draft enforceable, fair prenuptial agreements.";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-houston-tx.php";
 
         break;
 
