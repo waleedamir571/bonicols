@@ -87,7 +87,69 @@
                                 </div>
                             </div>
                         </div> -->
-                         <div class="news-block-three">
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="brain-behavior-divorce-custody-decisions">
+                                        <img src="../assets/images/blogs/brain.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 29, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        How the Brain Influences Legal Decisions in Divorce and Custody
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            When most people think about family law — divorce, child custody, support,
+                                            and asset division — they imagine courtroom battles, legal forms, and
+                                            negotiations.
+                                        </div>
+
+                                        <a class="read-more" href="brain-behavior-divorce-custody-decisions">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="family-law-services"><img src="../assets/images/blogs/law-services.png"
+                                            alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Dec 29, 2025</li>
+                                    </ul>
+                                    <h3>
+                                        Compassionate Family Law Services Focused on Your Future </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Family law matters are deeply personal. Whether you’re facing a divorce,
+                                            navigating child custody, or planning with a premarital agreement,
+                                        </div>
+
+                                        <a class="read-more" href="family-law-services">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
                                     <a href="premarital-agreement-attorney-houston-tx"><img
@@ -100,7 +162,7 @@
                                         <li><span class="icon flaticon-calendar-1"></span> Dec 25, 2025</li>
                                     </ul>
                                     <h3>
-                                       Premarital Agreements in Texas: Protect Your Future with Bo Nichols Law
+                                        Premarital Agreements in Texas: Protect Your Future with Bo Nichols Law
 
 
                                     </h3>

@@ -380,6 +380,18 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/premarital-agreement-attorney-houston-tx.php";
 
         break;
+    case "family-law-services.php";
+        $title_name = "Family Law Services | Divorce & Custody – Bo Nichols Law";
+        $description = "Trusted family law attorney for divorce, child custody, child support, asset division, and premarital agreements. Compassionate, strategic legal guidance.";
+        $url = $baseUrl . "blog/family-law-services.php";
+
+        break;
+         case "brain-behavior-divorce-custody-decisions.php";
+        $title_name = " How the Brain Affects Divorce & Custody Decisions | Bo Nichols Law";
+        $description = "Discover how stress, neuroscience, and decision-making impact divorce and child custody cases—and how Bo Nichols Law helps clients think clearly.";
+        $url = $baseUrl . "blog/brain-behavior-divorce-custody-decisions.php";
+
+        break;
 
 }
 
