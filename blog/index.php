@@ -90,6 +90,173 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="texas-child-support-guide">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Feb 27, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        How Modern Income Trends and Cost-of-Living Pressures Are Changing the
+                                        Conversation
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Understanding Asset Division in Divorce: Protecting What Matters Most
+
+                                        </div>
+
+                                        <a class="read-more" href="texas-child-support-guide">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="dividing-assets-divorce-texas">
+                                        <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Feb 27, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Understanding Asset Division in Divorce: Protecting What Matters Most
+
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Child support has always been about one core principle: ensuring children
+                                            receive the financial support they need to thrive after a separation or
+                                            divorce.
+                                        </div>
+
+                                        <a class="read-more" href="dividing-assets-divorce-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="texas-family-law-divorce-custody-guide">
+                                        <img src="../assets/images/blogs/agreement-attorney.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Jan 26, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Houston Family Law Attorney | Divorce & Custody Guidance
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Facing divorce or custody issues in Texas? Learn how an experienced Houston
+                                            family law attorney can protect your rights and guide you forward.
+                                        </div>
+
+                                        <a class="read-more" href="texas-family-law-divorce-custody-guide">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="ai-replace-lawyers-legal-risks-chatgpt-legal-advice">
+                                        <img src="../assets/images/blogs/agreement-attorney.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Jan 26, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Can AI Replace Lawyers? Legal Risks of Using ChatGPT for Legal Advice
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Artificial Intelligence tools, such as ChatGPT, have transformed the way we
+                                            access information across various industries, including law.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="ai-replace-lawyers-legal-risks-chatgpt-legal-advice">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="family-conflict-legal-guidance">
+                                        <img src="../assets/images/blogs/guarDian.png" alt=""></a>
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Jan 26, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Understanding Family Conflicts: Legal Guidance for Protecting What Matters Most
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Family conflicts are among the most emotionally challenging situations a
+                                            person can face. Disagreements within families often involve deep personal
+                                            relationships
+                                        </div>
+
+                                        <a class="read-more" href="family-conflict-legal-guidance">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="brain-behavior-divorce-custody-decisions">
                                         <img src="../assets/images/blogs/brain.png" alt=""></a>
                                 </div>

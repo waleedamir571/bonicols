@@ -386,10 +386,40 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/family-law-services.php";
 
         break;
-         case "brain-behavior-divorce-custody-decisions.php";
+    case "brain-behavior-divorce-custody-decisions.php";
         $title_name = " How the Brain Affects Divorce & Custody Decisions | Bo Nichols Law";
         $description = "Discover how stress, neuroscience, and decision-making impact divorce and child custody cases—and how Bo Nichols Law helps clients think clearly.";
         $url = $baseUrl . "blog/brain-behavior-divorce-custody-decisions.php";
+
+        break;
+    case "family-conflict-legal-guidance.php";
+        $title_name = " Family Conflict Legal Guidance | Bo Nichols Law";
+        $description = "Learn how family conflicts arise and how Bo Nichols Law helps resolve disputes involving divorce, custody, and family matters with care and clarity.";
+        $url = $baseUrl . "blog/family-conflict-legal-guidance.php";
+
+        break;
+    case "ai-replace-lawyers-legal-risks-chatgpt-legal-advice.php";
+        $title_name = "  Can AI Replace Lawyers? Legal Risks of Using ChatGPT for Advice";
+        $description = "Can AI replace lawyers? Learn the legal risks of using ChatGPT for legal advice, including accuracy issues, liability concerns, and when to consult a licensed attorney.";
+        $url = $baseUrl . "blog/ai-replace-lawyers-legal-risks-chatgpt-legal-advice.php";
+
+        break;
+    case "texas-family-law-divorce-custody-guide.php";
+        $title_name = " Houston Family Law Attorney | Divorce & Custody Guidance";
+        $description = " Facing divorce or custody issues in Texas? Learn how an experienced Houston family law attorney can protect your rights and guide you forward.";
+        $url = $baseUrl . "blog/texas-family-law-divorce-custody-guide.php";
+
+        break;
+    case "dividing-assets-divorce-texas.php";
+        $title_name = "  Asset Division in Divorce | Texas Property & Debt Division Attorney";
+        $description = " Learn how assets and debts are divided in a Texas divorce. Bo Nichols Law helps protect your property, finances, and future with strategic asset division guidance.";
+        $url = $baseUrl . "blog/dividing-assets-divorce-texas.php";
+
+        break;
+    case "texas-child-support-guide.php";
+        $title_name = "  Child Support in Texas | Modern Income, Modifications & Enforcement";
+        $description = " Learn how child support works in Texas, including gig income, social media earnings, cost-of-living changes, and support modifications. Guidance from Bo Nichols Law.";
+        $url = $baseUrl . "blog/texas-child-support-guide.php";
 
         break;
 
