@@ -422,6 +422,25 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/texas-child-support-guide.php";
 
         break;
+    case "family-law-rights-legal-awareness.php";
+        $title_name = "  Understanding Your Family Law Rights | Bo Nichols Law";
+        $description = "  Learn why legal awareness is important in family law cases, including divorce, child custody, and asset division.";
+        $url = $baseUrl . "blog/family-law-rights-legal-awareness.php";
+
+        break;
+    case "texas-child-support-enforcement.php";
+        $title_name = "  Unpaid Child Support in Texas: Legal Consequences & Enforcement";
+        $description = "   If child support is not paid in Texas, serious legal consequences may follow. Learn how enforcement works and what steps parents can take to recover unpaid support.
+";
+        $url = $baseUrl . "blog/texas-child-support-enforcement.php";
+
+        break;
+    case "divorce-without-court-texas.php";
+        $title_name = "  Can You Get Divorced Without Going to Court in Texas? | Bo Nichols Law";
+        $description = "Wondering if you can get divorced in Texas without going to court? Learn about uncontested divorce, mediation, and legal steps to finalize a divorce smoothly and efficiently.";
+        $url = $baseUrl . "blog/divorce-without-court-texas.php";
+
+        break;
 
 }
 

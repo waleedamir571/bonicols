@@ -187,6 +187,52 @@
 											<div class="upper-box">
 												<div class="author-image">
 												</div>
+												<div class="title">RRB </div>
+												<h6>Hired Attorney</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">Brilliant representation with genuine care for clients
+												Bo Nichols and his paralegal Melissa provided exceptional representation
+												during a very difficult and high conflict divorce process. People often
+												say you get what you pay for. Bo is certainly not inexpensive, but he is
+												absolutely worth it. His professionalism, responsiveness, and the level
+												of care he showed throughout my case were remarkable. Bo is simply a
+												brilliant lawyer. His preparation, command of the facts, and deep
+												understanding of the case were evident throughout the process. Watching
+												him present arguments in court and in arbitration was impressive to
+												observe. He has a rare ability to distill complex issues into clear,
+												concise points and advocate with precision and confidence. His arguments
+												are sharp, strategic, and incredibly effective. What surprised me most
+												was the level of humanity Bo and Melissa brought to the process. I had
+												assumed lawyers would be purely transactional. Instead, they checked in
+												on me personally during difficult moments and often made it clear when
+												they were not billing for time spent making sure I was okay. I truly
+												felt that my well-being—not just the legal outcome—mattered to them. If
+												someone is going through a divorce and wants an attorney with strong
+												ethics, integrity, and real courtroom skill, I would absolutely
+												recommend Bo and his outstanding paralegal Melissa. I believe in
+												balanced reviews, so my only feedback would be around back-office
+												communication and billing transparency. Earlier notice when the retainer
+												was nearing depletion and clearer discussions about cost/benefit on
+												certain actions would have made the financial side of the process
+												smoother. That said, Bo delivered excellent results and represented me
+												with skill, professionalism, and integrity. I’m very grateful for his
+												work. If you are searching for a brilliant and compassionate lawyer --
+												look no further.</div>
+										</div>
+									</div>
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
 												<div class="title">Family Law Expert - Custody</div>
 												<h6>Hired Attorney</h6>
 												<div class="rating">

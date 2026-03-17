@@ -90,6 +90,105 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="divorce-without-court-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> March 18, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        How to Get a Divorce in Texas Without Appearing in Court
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Divorce can be stressful and time-consuming, but many people wonder if it’s
+                                            possible to get divorced without going to court in Texas.
+                                        </div>
+
+                                        <a class="read-more" href="divorce-without-court-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="texas-child-support-enforcement">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> March 18, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What Happens If Child Support Is Not Paid in Texas?
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Child support plays a crucial role in ensuring that children receive the
+                                            financial support they need after parents separate or divorce.
+
+                                        </div>
+
+                                        <a class="read-more" href="texas-child-support-enforcement">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="family-law-rights-legal-awareness">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> March 17, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Family Law and Legal Awareness: What You Need to Know Before a Dispute
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Legal problems often arise during the most emotional moments in life,
+                                            especially when families are involved.
+
+                                        </div>
+
+                                        <a class="read-more" href="family-law-rights-legal-awareness">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="texas-child-support-guide">
                                         <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
                                 </div>
