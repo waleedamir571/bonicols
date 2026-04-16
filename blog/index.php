@@ -90,6 +90,134 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="digital-divorce-texas-technology-family-law">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> April 16, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Digital Divorce in 2026: What’s Really Changing (and Why It Matters to You)
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Divorce has never been easy, but lately, it’s gotten more complicated in
+                                            ways most people don’t expect.
+                                        </div>
+
+                                        <a class="read-more" href="digital-divorce-texas-technology-family-law">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="houston-legal-services-trusted-lawyer">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> April 16, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Trusted Houston Lawyer | Bo Nichols Law Legal Services & Advocacy
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Get reliable legal guidance with Bo Nichols Law in Houston. We provide
+                                            trusted advocacy, clear advice, and results-driven legal solutions tailored
+                                            to your needs.
+                                        </div>
+
+                                        <a class="read-more" href="houston-legal-services-trusted-lawyer">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="premarital-agreement-attorney-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> April 16, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Premarital Agreements in Texas: A Smart Start to a Strong Marriage
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Talking about a premarital agreement doesn’t mean you’re planning for
+                                            divorce.
+                                        </div>
+
+                                        <a class="read-more" href="premarital-agreement-attorney-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="child-custody-laws-and-decisions">
+                                       
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> April 16, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        How to Get a Divorce in Texas Without Appearing in Court
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+                                            Few aspects of family law are as emotionally charged as child custody. For
+                                            parents going through a divorce or separation,
+                                        </div>
+
+                                        <a class="read-more" href="child-custody-laws-and-decisions">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="divorce-without-court-texas">
                                         <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
                                 </div>

@@ -102,7 +102,7 @@
                                     <ul class="post-meta">
                                         <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
                                                 Nichols</span></li>
-                                        <li><span class="icon flaticon-calendar-1"></span> March 18, 2026</li>
+                                        <li><span class="icon flaticon-calendar-1"></span> April 16, 2026</li>
                                     </ul>
                                     <h3>
                                         How to Get a Divorce in Texas Without Appearing in Court

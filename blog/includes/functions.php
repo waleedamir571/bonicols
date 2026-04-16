@@ -429,8 +429,8 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
 
         break;
     case "texas-child-support-enforcement.php";
-        $title_name = "  Unpaid Child Support in Texas: Legal Consequences & Enforcement";
-        $description = "   If child support is not paid in Texas, serious legal consequences may follow. Learn how enforcement works and what steps parents can take to recover unpaid support.
+        $title_name = "Unpaid Child Support in Texas: Legal Consequences & Enforcement";
+        $description = "If child support is not paid in Texas, serious legal consequences may follow. Learn how enforcement works and what steps parents can take to recover unpaid support.
 ";
         $url = $baseUrl . "blog/texas-child-support-enforcement.php";
 
@@ -441,6 +441,32 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/divorce-without-court-texas.php";
 
         break;
+    case "child-custody-laws-and-decisions.php";
+        $title_name = "How Child Custody Decisions Are Made | Bo Nichols Family Law Guide";
+        $description = "Learn how child custody decisions are made, what courts consider, and how to protect your parental rights. Expert insights from Bo Nichols on custody laws and parenting plans.";
+        $url = $baseUrl . "blog/child-custody-laws-and-decisions.php";
+
+        break;
+    case "premarital-agreement-attorney-texas.php";
+        $title_name = "Premarital Agreements in Texas | Bonichols Law";
+        $description = "Protect your assets and financial future before marriage. Learn how Texas premarital agreements work and how Bonichols Law can help.";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
+
+        break;
+    case "houston-legal-services-trusted-lawyer.php";
+        $title_name = "Trusted Houston Lawyer | Bo Nichols Law Legal Services & Advocacy";
+        $description = "Get reliable legal guidance with Bo Nichols Law in Houston. We provide trusted advocacy, clear advice, and results-driven legal solutions tailored to your needs.";
+        $url = $baseUrl . "blog/houston-legal-services-trusted-lawyer.php";
+
+        break;
+          case "digital-divorce-texas-technology-family-law.php";
+        $title_name = "Digital Divorce in Texas | Technology & Family Law";
+        $description = " Divorce is changing fast. Discover how tech, social media, and digital assets affect Texas divorce cases, and what you can do to protect yourself.";
+        $url = $baseUrl . "blog/digital-divorce-texas-technology-family-law.php";
+
+        break;
+
+
 
 }
 
