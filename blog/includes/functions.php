@@ -459,10 +459,22 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/houston-legal-services-trusted-lawyer.php";
 
         break;
-          case "digital-divorce-texas-technology-family-law.php";
+    case "digital-divorce-texas-technology-family-law.php";
         $title_name = "Digital Divorce in Texas | Technology & Family Law";
         $description = " Divorce is changing fast. Discover how tech, social media, and digital assets affect Texas divorce cases, and what you can do to protect yourself.";
         $url = $baseUrl . "blog/digital-divorce-texas-technology-family-law.php";
+
+        break;
+    case "claiming-social-security-benefits-after-divorce.php";
+        $title_name = "Claiming Social Security Benefits After Divorce | Bo Nichols Law";
+        $description = "  Learn how to claim Social Security benefits after divorce, including eligibility, ex-spouse benefits, and strategies to maximize your financial future.";
+        $url = $baseUrl . "blog/claiming-social-security-benefits-after-divorce.php";
+
+        break;
+    case "ongoing-financial-obligations-divorce-houston-texas.php";
+        $title_name = "Ongoing Financial Obligations During Divorce in Houston, TX";
+        $description = "   Learn how Houston courts handle bills, support, and financial obligations during divorce proceedings. Understand temporary orders, child support, and spousal support in Texas.";
+        $url = $baseUrl . "blog/ongoing-financial-obligations-divorce-houston-texas.php";
 
         break;
 
