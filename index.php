@@ -163,6 +163,34 @@
 											<div class="upper-box">
 												<div class="author-image">
 												</div>
+												<div class="title">Cheri </div>
+												<h6>Excellent Legal Guidance and Support
+												</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">I had the opportunity to consult with this attorney
+												regarding a case, and I was extremely impressed with both his knowledge
+												and professionalism. He took the time to thoroughly explain the legal
+												process, answer all of my questions, and make sure I understood my
+												options. Beyond being highly knowledgeable, he was also very kind,
+												patient, and compassionate throughout our conversation. I truly
+												appreciated how comfortable and supported he made me feel during a
+												stressful situation. I would highly recommend him to anyone seeking
+												legal guidance.</div>
+										</div>
+									</div>
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
 												<div class="title">Stellar</div>
 												<h6>Hired Attorney</h6>
 												<div class="rating">

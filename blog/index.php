@@ -87,6 +87,40 @@
                                 </div>
                             </div>
                         </div> -->
+                         <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="digital-evidence-divorce-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> May 20, 2026</li>
+                                    </ul>
+                                    <h3>
+                                       Digital Evidence in Divorce Cases:
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                           Legal disputes are no longer limited to testimony, paperwork, and courtroom arguments.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="digital-evidence-divorce-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
@@ -100,7 +134,8 @@
                                         <li><span class="icon flaticon-calendar-1"></span> May 1, 2026</li>
                                     </ul>
                                     <h3>
-                                      How Do Courts Deal with a Couple’s Ongoing Financial Obligations During Divorce Proceedings 
+                                        How Do Courts Deal with a Couple’s Ongoing Financial Obligations During Divorce
+                                        Proceedings
 
 
                                     </h3>
@@ -109,18 +144,19 @@
 
                                     <div class="my-texttt">
                                         <div class="text">
-                                          
-Divorce is not just about dividing what a couple owns;
+
+                                            Divorce is not just about dividing what a couple owns;
                                         </div>
 
-                                        <a class="read-more" href="ongoing-financial-obligations-divorce-houston-texas">Read
+                                        <a class="read-more"
+                                            href="ongoing-financial-obligations-divorce-houston-texas">Read
                                             More</a>
 
                                     </div>
                                 </div>
                             </div>
                         </div>
-                         <div class="news-block-three">
+                        <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
                                     <a href="claiming-social-security-benefits-after-divorce">
@@ -133,7 +169,7 @@ Divorce is not just about dividing what a couple owns;
                                         <li><span class="icon flaticon-calendar-1"></span> May 1, 2026</li>
                                     </ul>
                                     <h3>
-                                      Claiming Social Security Benefits After a Divorce: What You Need to Know
+                                        Claiming Social Security Benefits After a Divorce: What You Need to Know
 
 
                                     </h3>
@@ -142,7 +178,8 @@ Divorce is not just about dividing what a couple owns;
 
                                     <div class="my-texttt">
                                         <div class="text">
-                                           Divorce can reshape your financial future in significant ways, especially as you begin planning for retirement.
+                                            Divorce can reshape your financial future in significant ways, especially as
+                                            you begin planning for retirement.
                                         </div>
 
                                         <a class="read-more" href="claiming-social-security-benefits-after-divorce">Read

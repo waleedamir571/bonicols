@@ -477,6 +477,12 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/ongoing-financial-obligations-divorce-houston-texas.php";
 
         break;
+         case "digital-evidence-divorce-texas.php";
+        $title_name = "Digital Evidence in Divorce Cases (2026 Guide) | Bo Nichols Law";
+        $description = "   Learn how texts, social media, and AI-generated content impact divorce and custody cases in Texas, with expert legal insights from Bo Nichols Law.";
+        $url = $baseUrl . "blog/digital-evidence-divorce-texas.php";
+
+        break;
 
 
 
