@@ -483,6 +483,18 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/digital-evidence-divorce-texas.php";
 
         break;
+         case "ai-divorce-child-custody-texas-2026.php";
+        $title_name = "AI in Divorce & Child Custody Cases, Texas 2026 | Bo Nichols Law";
+        $description = "   Learn how text messages, social media, and AI-generated content impact divorce and custody cases in 2026. Insights from Bo Nichols Law in Texas.";
+        $url = $baseUrl . "blog/ai-divorce-child-custody-texas-2026.php";
+
+        break;
+         case "texas-divorce-guide-houston-family-law-attorney.php";
+        $title_name = "Texas Divorce Guide: What Houston Families Need to Know | Bo Nichols Law";
+        $description = "Learn what to expect during a Texas divorce, including child custody, property division, mediation, and financial preparation. Get experienced guidance from Bo Nichols Law in Houston.";
+        $url = $baseUrl . "blog/texas-divorce-guide-houston-family-law-attorney.php";
+
+        break;
 
 
 

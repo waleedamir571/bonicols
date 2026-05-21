@@ -87,6 +87,75 @@
                                 </div>
                             </div>
                         </div> -->
+                          <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="texas-divorce-guide-houston-family-law-attorney">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> May 21, 2026</li>
+                                    </ul>
+                                    <h3>
+                                     AI in Divorce and Child Custody Cases: 
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                           Artificial intelligence is no longer a futuristic concept; it is now part of everyday life.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="texas-divorce-guide-houston-family-law-attorney">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="ai-divorce-child-custody-texas-2026.php">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> May 21, 2026</li>
+                                    </ul>
+                                    <h3>
+                                     AI in Divorce and Child Custody Cases: 
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                           Artificial intelligence is no longer a futuristic concept; it is now part of everyday life.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="ai-divorce-child-custody-texas-2026.php">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
                          <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
