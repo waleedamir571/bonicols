@@ -87,7 +87,41 @@
                                 </div>
                             </div>
                         </div> -->
-                          <div class="news-block-three">
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="prenuptial-agreements-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> June 10, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Prenuptial Agreements in Texas
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            For many people, discussing a prenuptial agreement before marriage can feel
+                                            uncomfortable.
+                                        </div>
+
+                                        <a class="read-more" href="prenuptial-agreements-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
                                     <a href="texas-divorce-guide-houston-family-law-attorney">
@@ -100,7 +134,7 @@
                                         <li><span class="icon flaticon-calendar-1"></span> May 21, 2026</li>
                                     </ul>
                                     <h3>
-                                     AI in Divorce and Child Custody Cases: 
+                                        AI in Divorce and Child Custody Cases:
 
 
                                     </h3>
@@ -110,18 +144,18 @@
                                     <div class="my-texttt">
                                         <div class="text">
 
-                                           Artificial intelligence is no longer a futuristic concept; it is now part of everyday life.
+                                            Artificial intelligence is no longer a futuristic concept; it is now part of
+                                            everyday life.
                                         </div>
 
-                                        <a class="read-more"
-                                            href="texas-divorce-guide-houston-family-law-attorney">Read
+                                        <a class="read-more" href="texas-divorce-guide-houston-family-law-attorney">Read
                                             More</a>
 
                                     </div>
                                 </div>
                             </div>
                         </div>
-                         <div class="news-block-three">
+                        <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
                                     <a href="ai-divorce-child-custody-texas-2026.php">
@@ -134,7 +168,7 @@
                                         <li><span class="icon flaticon-calendar-1"></span> May 21, 2026</li>
                                     </ul>
                                     <h3>
-                                     AI in Divorce and Child Custody Cases: 
+                                        AI in Divorce and Child Custody Cases:
 
 
                                     </h3>
@@ -144,19 +178,19 @@
                                     <div class="my-texttt">
                                         <div class="text">
 
-                                           Artificial intelligence is no longer a futuristic concept; it is now part of everyday life.
+                                            Artificial intelligence is no longer a futuristic concept; it is now part of
+                                            everyday life.
                                         </div>
 
-                                        <a class="read-more"
-                                            href="ai-divorce-child-custody-texas-2026.php">Read
+                                        <a class="read-more" href="ai-divorce-child-custody-texas-2026.php">Read
                                             More</a>
 
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
-                         <div class="news-block-three">
+
+                        <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
                                     <a href="digital-evidence-divorce-texas">
@@ -169,7 +203,7 @@
                                         <li><span class="icon flaticon-calendar-1"></span> May 20, 2026</li>
                                     </ul>
                                     <h3>
-                                       Digital Evidence in Divorce Cases:
+                                        Digital Evidence in Divorce Cases:
 
 
                                     </h3>
@@ -179,11 +213,11 @@
                                     <div class="my-texttt">
                                         <div class="text">
 
-                                           Legal disputes are no longer limited to testimony, paperwork, and courtroom arguments.
+                                            Legal disputes are no longer limited to testimony, paperwork, and courtroom
+                                            arguments.
                                         </div>
 
-                                        <a class="read-more"
-                                            href="digital-evidence-divorce-texas">Read
+                                        <a class="read-more" href="digital-evidence-divorce-texas">Read
                                             More</a>
 
                                     </div>

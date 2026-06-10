@@ -495,6 +495,12 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/texas-divorce-guide-houston-family-law-attorney.php";
 
         break;
+         case "prenuptial-agreements-in-texas.php";
+        $title_name = "Prenuptial Agreements in Texas: What Couples Should Know | Bo Nichols Law";
+        $description = " Learn how prenuptial agreements work in Texas, what they can protect, and why more couples are using prenups to safeguard assets and avoid future disputes.";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
+
+        break;
 
 
 
