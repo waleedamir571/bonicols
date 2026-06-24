@@ -25,19 +25,31 @@
 	<link
 		href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&amp;family=Roboto:wght@300;400;500;700;900&amp;display=swap"
 		rel="stylesheet">
-		<meta name="google-site-verification" content="MfZyRwrn0r7AVEZi2Ctrfo_LP5rhMED_H_uI3rb7Rvg" />
+	<meta name="google-site-verification" content="MfZyRwrn0r7AVEZi2Ctrfo_LP5rhMED_H_uI3rb7Rvg" />
 
 	<link href="assets/css/style-2.css" rel="stylesheet">
 	<link href="assets/css/responsive.css" rel="stylesheet">
 
+	<!-- begin super lawyers badge -->
+	<link rel="stylesheet" href="https://www.superlawyers.com/static/sl-paid-badge/v4/sl_badge.min.css?1779375713"
+		crossorigin="anonymous">
+	<div class="slbadge slbadge-v4-embed"
+		data-badge-url="https://api.superlawyers.com/v1/badges/v4/html?type=atty-milestone-20&template=atty-milestone&name=John%20%26%23039%3BBo%26%23039%3B%20Nichols&year=20&profile_link=aHR0cHM6Ly9wcm9maWxlcy5zdXBlcmxhd3llcnMuY29tL3RleGFzL2hvdXN0b24vbGF3eWVyL2pvaG4tYm8tbmljaG9scy82MDYyZTk2OS03OTMyLTRmYTMtODljNC1iMWM4Njg3NDU4ODkuaHRtbD9ucGNtcD1zbGI6YmFkZ2U6c2xfYmFkZ2VfdjQ6NjA2MmU5NjktNzkzMi00ZmEzLTg5YzQtYjFjODY4NzQ1ODg5Om1haW4mdXRtX3NvdXJjZT02MDYyZTk2OS03OTMyLTRmYTMtODljNC1iMWM4Njg3NDU4ODkmdXRtX2NhbXBhaWduPXY0LWF0dHktbWlsZXN0b25lLTIwJnV0bV9jb250ZW50PXByb2ZpbGU%3D&link_text=View%20the%20profile%20of%20Texas%20Family%20Law%20Attorney%20John%20%26%23039%3BBo%26%23039%3B%20Nichols%20%3A%20Super%20Lawyers%20Selectee%2020%20Years&color=sl&rs=0&line1=&line2=&region=&toplist_type=&hash=13d6b205d6f2837796c379c3e76700c142ee7f58893c2645fc0f859ede1c7c5e">
+		<div
+			style="width:180px;height:150px;border-radius:12px;font-family:arial, sans-serif;color:gray;text-align:center">
+			Rated by Super Lawyers<br /><br /><br />loading ...</div>
+	</div>
+	<script src="https://www.superlawyers.com/static/sl-paid-badge/v4/sl_badge.min.js?1779375713"
+		crossorigin="anonymous"></script><!-- end super lawyers badge -->
 
 
 	<link rel="canonical" href="<?php echo $url; ?>" />
 
 
 	<meta property="og:type" content="website" />
-<meta property="og:title" content="Bo Nichols | Expert Family Law Attorney in Houston"/>
-<meta property="og:description" content="Looking for the best family attorney in Houston? Get legal aid from Bo Nichols in matters of divorce, child custody and support, and asset division."/>
+	<meta property="og:title" content="Bo Nichols | Expert Family Law Attorney in Houston" />
+	<meta property="og:description"
+		content="Looking for the best family attorney in Houston? Get legal aid from Bo Nichols in matters of divorce, child custody and support, and asset division." />
 	<meta name="Expert Family Law Attorney in Houston" content="" />
 	<meta property="og:url" content="https://bonicholslaw.com/" />
 	<meta property="og:image" content="https://bonicholslaw.com/assets/images/logo-light.png" />
@@ -73,16 +85,16 @@
 			max-width: 1000px;
 		}
 	</style>
-	
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-17PV9LHTCM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-17PV9LHTCM');
-</script> 
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-17PV9LHTCM"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-17PV9LHTCM');
+	</script>
 
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
