@@ -33,12 +33,7 @@
 	<!-- begin super lawyers badge -->
 	<link rel="stylesheet" href="https://www.superlawyers.com/static/sl-paid-badge/v4/sl_badge.min.css?1779375713"
 		crossorigin="anonymous">
-	<div class="slbadge slbadge-v4-embed"
-		data-badge-url="https://api.superlawyers.com/v1/badges/v4/html?type=atty-milestone-20&template=atty-milestone&name=John%20%26%23039%3BBo%26%23039%3B%20Nichols&year=20&profile_link=aHR0cHM6Ly9wcm9maWxlcy5zdXBlcmxhd3llcnMuY29tL3RleGFzL2hvdXN0b24vbGF3eWVyL2pvaG4tYm8tbmljaG9scy82MDYyZTk2OS03OTMyLTRmYTMtODljNC1iMWM4Njg3NDU4ODkuaHRtbD9ucGNtcD1zbGI6YmFkZ2U6c2xfYmFkZ2VfdjQ6NjA2MmU5NjktNzkzMi00ZmEzLTg5YzQtYjFjODY4NzQ1ODg5Om1haW4mdXRtX3NvdXJjZT02MDYyZTk2OS03OTMyLTRmYTMtODljNC1iMWM4Njg3NDU4ODkmdXRtX2NhbXBhaWduPXY0LWF0dHktbWlsZXN0b25lLTIwJnV0bV9jb250ZW50PXByb2ZpbGU%3D&link_text=View%20the%20profile%20of%20Texas%20Family%20Law%20Attorney%20John%20%26%23039%3BBo%26%23039%3B%20Nichols%20%3A%20Super%20Lawyers%20Selectee%2020%20Years&color=sl&rs=0&line1=&line2=&region=&toplist_type=&hash=13d6b205d6f2837796c379c3e76700c142ee7f58893c2645fc0f859ede1c7c5e">
-		<div
-			style="width:180px;height:150px;border-radius:12px;font-family:arial, sans-serif;color:gray;text-align:center">
-			Rated by Super Lawyers<br /><br /><br />loading ...</div>
-	</div>
+	
 	<script src="https://www.superlawyers.com/static/sl-paid-badge/v4/sl_badge.min.js?1779375713"
 		crossorigin="anonymous"></script><!-- end super lawyers badge -->
 

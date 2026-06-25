@@ -62,6 +62,10 @@
                         <figure class="image-box"><img src="assets/images/clients/image001.jpg" alt="" height="90"
                                 class="client-img img-responsive"></figure>
                     </li>
+                     <li class="slide-item">
+                        <figure class="image-box"><img src="assets/images/about/badge.png" alt="" 
+                                class="client-img img-responsive"></figure>
+                    </li>
                     <li class="slide-item">
                         <!-- begin super lawyers badge -->
                         <div data-slbadge="v2-slbadge-blue"
