@@ -8,6 +8,15 @@
             <div class="sponsors-outer">
                 <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
+                     <li class="slide-item">
+                        <figure class="image-box"><img src="assets/images/clients/b2.png" height="100" alt=""
+                                class="client-img img-responsive"></figure>
+                    </li>
+                     <li class="slide-item">
+                        <figure class="image-box"><img src="assets/images/clients/b1.png" height="100" alt=""
+                                class="client-img img-responsive"></figure>
+                    </li>
+                   
                     <li class="slide-item">
                         <figure class="image-box"><img src="assets/images/about/a1.jpg" height="100" alt=""
                                 class="client-img img-responsive"></figure>
@@ -80,13 +89,13 @@
                         </div>
                         <!-- end super lawyers badge -->
                     </li>
-                    <li class="slide-item">
+                    <!-- <li class="slide-item">
                         <a href=https://www.bestlawyers.com/firms/bo-nichols-law/95633/US>
                             <img src=https://www.bestlawyers.com/Logos/ListedFirm/95633/US/32/O/Basic.png
                                 title="Best Lawyers - Firm Logo" alt="Best Lawyers - Firm Logo"
                                 style="height: 6.3rem !important;">
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>

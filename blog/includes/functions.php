@@ -477,31 +477,189 @@ expectations, and strengthen your relationship. Get expert guidance from Bo Nich
         $url = $baseUrl . "blog/ongoing-financial-obligations-divorce-houston-texas.php";
 
         break;
-         case "digital-evidence-divorce-texas.php";
+    case "digital-evidence-divorce-texas.php";
         $title_name = "Digital Evidence in Divorce Cases (2026 Guide) | Bo Nichols Law";
         $description = "   Learn how texts, social media, and AI-generated content impact divorce and custody cases in Texas, with expert legal insights from Bo Nichols Law.";
         $url = $baseUrl . "blog/digital-evidence-divorce-texas.php";
 
         break;
-         case "ai-divorce-child-custody-texas-2026.php";
+    case "ai-divorce-child-custody-texas-2026.php";
         $title_name = "AI in Divorce & Child Custody Cases, Texas 2026 | Bo Nichols Law";
         $description = "   Learn how text messages, social media, and AI-generated content impact divorce and custody cases in 2026. Insights from Bo Nichols Law in Texas.";
         $url = $baseUrl . "blog/ai-divorce-child-custody-texas-2026.php";
 
         break;
-         case "texas-divorce-guide-houston-family-law-attorney.php";
+    case "texas-divorce-guide-houston-family-law-attorney.php";
         $title_name = "Texas Divorce Guide: What Houston Families Need to Know | Bo Nichols Law";
         $description = "Learn what to expect during a Texas divorce, including child custody, property division, mediation, and financial preparation. Get experienced guidance from Bo Nichols Law in Houston.";
         $url = $baseUrl . "blog/texas-divorce-guide-houston-family-law-attorney.php";
 
         break;
-         case "prenuptial-agreements-in-texas.php";
+    case "prenuptial-agreements-in-texas.php";
         $title_name = "Prenuptial Agreements in Texas: What Couples Should Know | Bo Nichols Law";
         $description = " Learn how prenuptial agreements work in Texas, what they can protect, and why more couples are using prenups to safeguard assets and avoid future disputes.";
         $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
 
         break;
+    case "how-child-custody-decisions-are-made-in-texas.php";
+        $title_name = "How Texas Child Custody Decisions Are Made";
+        $description = " Learn how Texas courts decide child custody, the factors judges consider, and what parents can do to protect their rights and their child's best interests.";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
 
+        break;
+    case "what-to-do-before-filing-for-divorce-in-texas.php";
+        $title_name = "How Texas Child Custody Decisions Are Made";
+        $description = "  Learn how Texas courts decide child custody, the factors judges consider, and what parents can do to protect their rights and their child's best interests.
+";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
+
+        break;
+    case "what-happens-when-a-parent-violates-a-custody-order.php";
+        $title_name = "What Happens When a Parent Violates a Custody Order?";
+        $description = "  Learn what happens when a parent violates a custody order, including legal consequences, custody enforcement options, and how a family law attorney can help protect your parental rights.";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
+
+        break;
+    case "what-to-expect-during-your-first-consultation-with-a-lawyer.php";
+        $title_name = "What to Expect During Your First Consultation With a Lawyer | Nichols Law";
+        $description = "   Learn what happens during your first consultation with a lawyer, what documents to bring, the questions to ask, and how to prepare for the best legal outcome.";
+        $url = $baseUrl . "blog/premarital-agreement-attorney-texas.php";
+
+        break;
+    case "if-your-divorce-feels-like-constant-chaos-you-may-be-making-this-mistake.php";
+        $title_name = "If Your Divorce Feels Like Constant Chaos | Bo Nichols Law";
+        $description = "   If your divorce feels like constant chaos, you may be reacting instead of planning. Learn how a strategic approach can reduce conflict and protect your future.";
+        $url = $baseUrl . "blog/if-your-divorce-feels-like-constant-chaos-you-may-be-making-this-mistake.php";
+
+        break;
+    case "the-last-normal-tuesday-family-law.php";
+        $title_name = "The Last Normal Tuesday: When Family Life Changes | Bo Nichols Law";
+        $description = "Family-law disputes often begin long before a case reaches court. Explore how everyday routines, parenting patterns, and family history can shape a divorce or custody dispute.";
+        $url = $baseUrl . "blog/the-last-normal-tuesday-family-law.php";
+
+        break;
+    case "the-ikea-divorce-property-division.php";
+        $title_name = "The IKEA Divorce: The Emotional Side of Property Division";
+        $description = "Why do couples fight over furniture, photographs, and other low-value belongings during divorce? Explore the emotional side of property division and family life.";
+        $url = $baseUrl . "blog/the-ikea-divorce-property-division.php";
+
+        break;
+    case "what-to-expect-houston-family-law-attorney.php";
+        $title_name = "What to Expect From a Houston Family Law Attorney | Bo Nichols Law";
+        $description = "Learn what to expect from a Houston family law attorney when facing divorce, child custody, child support, asset division, or other family law matters.";
+        $url = $baseUrl . "blog/what-to-expect-houston-family-law-attorney.php";
+
+        break;
+    case "business-ownership-divorce-texas.php";
+        $title_name = "Business Ownership & Divorce in Texas | Bo Nichols Law";
+        $description = "What happens to a business during a Texas divorce? Learn about business valuation, community property, hidden assets, and protecting your business interests.";
+        $url = $baseUrl . "blog/business-ownership-divorce-texas.php";
+
+        break;
+    case "how-to-protect-your-peace-during-a-family-law-dispute.php";
+        $title_name = "How to Protect Your Peace During a Family Law Dispute";
+        $description = "Learn practical ways to protect your emotional well-being, set boundaries, reduce conflict, and maintain your peace during a family law dispute.";
+        $url = $baseUrl . "blog/how-to-protect-your-peace-during-a-family-law-dispute.php";
+
+        break;
+    case "what-happens-to-your-business-during-a-divorce.php";
+        $title_name = "What Happens to Your Business During a Divorce?";
+        $description = "Learn how a business may be treated during divorce, including valuation, ownership, debts, and steps business owners can take to protect their interests.";
+        $url = $baseUrl . "blog/what-happens-to-your-business-during-a-divorce.php";
+
+        break;
+    case "can-you-change-a-child-custody-agreement.php";
+        $title_name = "Can You Change a Child Custody Agreement? | Bo Nichols Law";
+        $description = "Learn when a child custody agreement can be modified, what may justify a change, and what parents should know before seeking a new custody arrangement.
+";
+        $url = $baseUrl . "blog/can-you-change-a-child-custody-agreement.php";
+
+        break;
+    case "can-a-texas-custody-order-restrict-where-a-parent-lives.php";
+        $title_name = " Can a Texas Custody Order Restrict Where a Parent Lives?";
+        $description = "Learn whether a Texas custody order can restrict where a parent lives, how geographic restrictions work, and what to know before relocating with a child.";
+        $url = $baseUrl . "blog/can-a-texas-custody-order-restrict-where-a-parent-lives.php";
+
+        break;
+    case "can-you-refuse-to-sign-divorce-papers-in-texas.php";
+        $title_name = "Can You Refuse to Sign Divorce Papers in Texas? | Bo Nichols Law";
+        $description = " Can you refuse to sign divorce papers in Texas? Learn what happens if your spouse disagrees, what your rights are, and how a contested divorce may proceed.";
+        $url = $baseUrl . "blog/can-you-refuse-to-sign-divorce-papers-in-texas.php";
+
+        break;
+         case "can-a-parent-move-out-of-state-with-a-child-in-texas.php";
+        $title_name = "Can a Parent Move Out of State With a Child in Texas?";
+        $description = "Can you move out of state with your child in Texas? Learn about custody orders, geographic restrictions, relocation, and parental rights before moving.";
+        $url = $baseUrl . "blog/can-a-parent-move-out-of-state-with-a-child-in-texas.php";
+
+        break;
+          case "3-ways-to-minimize-conflict-during-property-division.php";
+        $title_name = "3 ways to minimize conflict during Property Division";
+        $description = "Learn 3 practical ways to minimize conflict during property division in a Texas divorce, from organizing assets to using negotiation and mediation.";
+        $url = $baseUrl . "blog/3-ways-to-minimize-conflict-during-property-division.php";
+
+        break;
+         case "when-one-parent-wants-to-relocate.php";
+        $title_name = "When One Parent Wants to Relocate: What Happens to Child Custody in Texas?";
+        $description = "A move can be exciting for one parent but stressful for the entire family when children are involved.";
+        $url = $baseUrl . "blog/when-one-parent-wants-to-relocate.php";
+
+        break;
+         case "what-makes-a-divorce-more-contentious.php";
+        $title_name = "What Makes a Divorce More Contentious? | Texas Divorce";
+        $description = "Learn what makes a divorce more contentious in Texas, including disputes over children, finances, property, communication, and hidden assets.";
+        $url = $baseUrl . "blog/what-makes-a-divorce-more-contentious.php";
+
+        break;
+         case "child-support-after-18.php";
+        $title_name = "Child Support After 18 in Texas | Bo Nichols Law";
+        $description = "Can child support continue after a child turns 18 in Texas? Learn when support may continue through high school, disability exceptions, and child support arrears.";
+        $url = $baseUrl . "blog/child-support-after-18.php";
+
+        break;
+        case "escaping-domestic-violence.php";
+        $title_name = "Escaping Domestic Violence | Texas Protective Orders";
+        $description = "Learn about escaping domestic violence in Texas, including protective orders, child custody, divorce, safety planning, and legal options.";
+        $url = $baseUrl . "blog/escaping-domestic-violence.php";
+
+        break;
+        case "is-a-post-nup-enforceable-in-texas.php";
+        $title_name = "Is a Post-Nup Enforceable in Texas? | Bo Nichols Law";
+        $description = "Is a post-nup enforceable in Texas? Learn about Texas postnuptial agreements, legal requirements, property rights, and when a post-nup may be challenged.";
+        $url = $baseUrl . "blog/is-a-post-nup-enforceable-in-texas.php";
+
+        break;
+         case "divorcing-as-a-business-owner-in-texas.php";
+        $title_name = "Divorcing as a Business Owner in Texas | Bo Nichols Law";
+        $description = " Learn how Texas courts value and divide private businesses in divorce, including community property, business valuation, goodwill, and buyouts.";
+        $url = $baseUrl . "blog/divorcing-as-a-business-owner-in-texas.php";
+
+        break;
+         case "who-loses-more-financially-in-a-texas-divorce.php";
+        $title_name = "Who Loses More Financially in a Texas Divorce? | Bo Nichols Law";
+        $description = "Who loses more financially in a Texas divorce? Compare divorce research with Texas property-division laws, community property, assets, and debt.";
+        $url = $baseUrl . "blog/who-loses-more-financially-in-a-texas-divorce.php";
+        break;
+        case "texas-60-day-divorce-waiting-period.php";
+        $title_name = "Texas’s 60-Day Divorce Waiting Period: What to Do";
+        $description = "Learn what to do during Texas’s 60-day divorce waiting period, including financial planning, child custody, property division, and settlement preparation.";
+        $url = $baseUrl . "blog/texas-60-day-divorce-waiting-period.php";
+        break;
+          case "mediation-process-in-texas-law.php";
+        $title_name = "Explaining the Mediation Process in Texas Law";
+        $description = "Learn how the mediation process works in Texas law. Explore divorce mediation, child custody disputes, settlement agreements, and your legal rights.";
+        $url = $baseUrl . "blog/mediation-process-in-texas-law.php";
+        break;
+         case "how-much-does-it-cost-to-get-divorced-in-texas.php";
+        $title_name = "How Much Does It Cost to Get Divorced in Texas? (2026)";
+        $description = "Wondering how much it costs to get divorced in Texas? Explore divorce filing fees, attorney costs, and uncontested and contested divorce expenses.";
+        $url = $baseUrl . "blog/how-much-does-it-cost-to-get-divorced-in-texas.php";
+        break;
+        case "methods-to-settle-family-law-case.php";
+        $title_name = "What Methods Are Available to Settle My Family Law Case?";
+        $description = "Learn about family law settlement methods in Texas, including negotiation, mediation, collaborative law, arbitration, and courtroom litigation.";
+        $url = $baseUrl . "blog/methods-to-settle-family-law-case.php";
+        break;
 
 
 }

@@ -90,6 +90,908 @@
                         <div class="news-block-three">
                             <div class="inner-box">
                                 <div class="image">
+                                    <a href="methods-to-settle-family-law-case">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Nov 11, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What Methods Are Available to Settle My Family Law Case in Texas?
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Family law disputes can be emotionally challenging, financially stressful,
+                                            and difficult to navigate.
+                                        </div>
+
+                                        <a class="read-more" href="methods-to-settle-family-law-case">Read
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="how-much-does-it-cost-to-get-divorced-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Nov 11, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        How Much Does Divorce Cost in Texas? A Complete Cost Breakdown
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Divorce is a major life decision, and understanding the financial
+                                            implications is an important first step.
+
+                                        </div>
+
+                                        <a class="read-more" href="how-much-does-it-cost-to-get-divorced-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="mediation-process-in-texas-law">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Nov 11, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Texas’s 60-Day Divorce Waiting Period: What Should Actually Happen During Those
+                                        60 Days?
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Family law disputes can be emotionally exhausting, especially when they
+                                            involve divorce, child custody, child support, or property division.
+
+                                        </div>
+
+                                        <a class="read-more" href="mediation-process-in-texas-law">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="texas-60-day-divorce-waiting-period">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 30, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Texas’s 60-Day Divorce Waiting Period: What Should Actually Happen During Those
+                                        60 Days?
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Deciding to end a marriage is never easy. Once you file for divorce in
+                                            Texas,
+
+                                        </div>
+
+                                        <a class="read-more" href="texas-60-day-divorce-waiting-period">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="who-loses-more-financially-in-a-texas-divorce">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 30, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Who Loses More Financially in a Texas Divorce?
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            One of the most common questions people have before or during a divorce is
+                                            simple: Who loses more financially in a divorce, the husband or the wife?
+
+                                        </div>
+
+                                        <a class="read-more" href="who-loses-more-financially-in-a-texas-divorce">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="divorcing-as-a-business-owner-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 30, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Divorcing as a Business Owner in Texas: How Courts Value and Divide a Private
+                                        Business
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Divorce can become significantly more complicated when one or both spouses
+                                            own a private business.
+
+                                        </div>
+
+                                        <a class="read-more" href="divorcing-as-a-business-owner-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="is-a-post-nup-enforceable-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 22, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Is a Post-Nup Enforceable in Texas?
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            A prenuptial agreement is signed before marriage. But what happens if
+                                            spouses decide they need an agreement after they are already married?
+
+
+                                        </div>
+
+                                        <a class="read-more" href="is-a-post-nup-enforceable-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="escaping-domestic-violence">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 22, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Escaping Domestic Violence: Legal Steps to Protect Yourself and Your Children
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Leaving an abusive relationship can be one of the most difficult decisions a
+                                            person ever makes.
+
+                                        </div>
+
+                                        <a class="read-more" href="escaping-domestic-violence">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="child-support-after-18">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 22, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Can a Spouse Be Ordered to Support a Child After the Child Turns 18?
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            For many parents, a child's 18th birthday feels like an important legal
+                                            milestone.
+
+                                        </div>
+
+                                        <a class="read-more" href="child-support-after-18">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="what-makes-a-divorce-more-contentious">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 13, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What Makes a Divorce More Contentious? 7 Common Factors in Texas
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Some couples can communicate, negotiate their differences, and reach
+                                            agreements relatively efficiently.
+
+                                        </div>
+
+                                        <a class="read-more" href="what-makes-a-divorce-more-contentious">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="when-one-parent-wants-to-relocate">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 13, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        When One Parent Wants to Relocate: What Happens to Child Custody in Texas?
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            A move can be exciting for one parent but stressful for the entire family
+                                            when children are involved.
+
+                                        </div>
+
+                                        <a class="read-more" href="when-one-parent-wants-to-relocate">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="3-ways-to-minimize-conflict-during-property-division">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Oct 13, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        3 Ways to Minimize Conflict During Property Division in a Texas Divorce
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Divorce can turn ordinary financial decisions into major points of conflict.
+                                            Who keeps the house? What happens to retirement accounts?
+
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="3-ways-to-minimize-conflict-during-property-division">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="can-a-parent-move-out-of-state-with-a-child-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 21, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Can a Parent Move Out of State With a Child in Texas?
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Moving to another state can be a major life decision. For a parent, however,
+                                            relocating becomes much more complicated when a child custody order is
+                                            involved.
+
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="can-a-parent-move-out-of-state-with-a-child-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="can-you-refuse-to-sign-divorce-papers-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 21, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Can You Refuse to Sign Divorce Papers in Texas?
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Getting served with divorce papers can feel like your entire life has
+                                            suddenly been turned upside down.
+                                        </div>
+
+                                        <a class="read-more" href="can-you-refuse-to-sign-divorce-papers-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="can-a-texas-custody-order-restrict-where-a-parent-lives">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 21, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Can a Texas Custody Order Restrict Where a Parent Lives?
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            When parents separate or divorce in Texas, one common question is whether a
+                                            child custody order can control where either parent is allowed to live.
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="can-a-texas-custody-order-restrict-where-a-parent-lives">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="can-you-change-a-child-custody-agreement">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 11, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        Can You Change a Child Custody Agreement? What Parents Should Know
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Life does not always stay the same after a child custody order is
+                                            established.
+                                        </div>
+
+                                        <a class="read-more" href="can-you-change-a-child-custody-agreement">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="what-happens-to-your-business-during-a-divorce">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 11, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What Happens To Your Business During Divorce
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Building a business takes years of hard work. For many business owners, a
+                                            company is more than income.
+                                        </div>
+
+                                        <a class="read-more" href="what-happens-to-your-business-during-a-divorce">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="how-child-custody-decisions-are-made-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 11, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        How to Protect Your Peace During a Family Law Dispute
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Family law disputes can change your life upside down.
+                                        </div>
+
+                                        <a class="read-more" href="how-child-custody-decisions-are-made-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="business-ownership-divorce-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 04, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What Happens to the Family Home in a Texas Divorce?
+
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            For many married couples, the family home is more than just another asset.
+                                        </div>
+
+                                        <a class="read-more" href="business-ownership-divorce-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="what-to-expect-houston-family-law-attorney">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Sep 04, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What to Expect When Working With a Houston Family Law Attorney
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Divorce has a reputation for being about the big things.
+                                        </div>
+
+                                        <a class="read-more" href="what-to-expect-houston-family-law-attorney">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="the-ikea-divorce-property-division">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 28, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        The IKEA Divorce: Why Couples Fight Over Things Worth Almost Nothing
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Divorce has a reputation for being about the big things.
+                                        </div>
+
+                                        <a class="read-more" href="the-ikea-divorce-property-division">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="the-last-normal-tuesday-family-law">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 28, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        The Strange Moment Your Family’s Story Changes Forever
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            In almost every major family-law case, there's a moment that never appears
+                                            in the petition,
+                                        </div>
+
+                                        <a class="read-more" href="the-last-normal-tuesday-family-law">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="if-your-divorce-feels-like-constant-chaos-you-may-be-making-this-mistake">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 28, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        If Your Divorce Feels Like Constant Chaos, You May Be Making This Mistake
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Divorce rarely feels calm. Even when both spouses understand that the
+                                            marriage needs to end,
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="if-your-divorce-feels-like-constant-chaos-you-may-be-making-this-mistake">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="what-to-expect-during-your-first-consultation-with-a-lawyer">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 14, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What to Expect During Your First Consultation With a Lawyer </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Reaching out to Bo Nichols Law for the first time can feel overwhelming,
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="what-to-expect-during-your-first-consultation-with-a-lawyer">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="what-happens-when-a-parent-violates-a-custody-order">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 14, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What Happens When a Parent Violates a Custody Order </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            A child custody order is more than a simple agreement between two parents;
+                                        </div>
+
+                                        <a class="read-more"
+                                            href="what-happens-when-a-parent-violates-a-custody-order">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="what-to-do-before-filing-for-divorce-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 14, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        What to Do Before Filing for Divorce in Texas:
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            Deciding to file for divorce is rarely easy. For many people,
+                                        </div>
+
+                                        <a class="read-more" href="what-to-do-before-filing-for-divorce-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="how-child-custody-decisions-are-made-in-texas">
+                                        <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
+                                </div>
+                                <div class="lower-content">
+                                    <ul class="post-meta">
+                                        <li><span class="icon flaticon-user-1"></span> By <span class="theme-color">Bo
+                                                Nichols</span></li>
+                                        <li><span class="icon flaticon-calendar-1"></span> Aug 14, 2026</li>
+                                    </ul>
+                                    <h3>
+                                        How Texas Child Custody Decisions Are Made
+
+
+                                    </h3>
+
+                                    <h3> Overview</h3>
+
+                                    <div class="my-texttt">
+                                        <div class="text">
+
+                                            When parents separate or divorce, one of the biggest concerns is often their
+                                            children.
+                                        </div>
+
+                                        <a class="read-more" href="how-child-custody-decisions-are-made-in-texas">Read
+                                            More</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="news-block-three">
+                            <div class="inner-box">
+                                <div class="image">
                                     <a href="prenuptial-agreements-in-texas">
                                         <!-- <img src="../assets/images/blogs/DiviDing-assets.png" alt=""></a> -->
                                 </div>
@@ -134,7 +1036,7 @@
                                         <li><span class="icon flaticon-calendar-1"></span> May 21, 2026</li>
                                     </ul>
                                     <h3>
-                                       AI, Digital Evidence, and Divorce: 
+                                        AI, Digital Evidence, and Divorce:
 
 
                                     </h3>
@@ -144,7 +1046,8 @@
                                     <div class="my-texttt">
                                         <div class="text">
 
-                                           Family law is changing rapidly, and technology is one of the biggest reasons why.
+                                            Family law is changing rapidly, and technology is one of the biggest reasons
+                                            why.
                                         </div>
 
                                         <a class="read-more" href="texas-divorce-guide-houston-family-law-attorney">Read
